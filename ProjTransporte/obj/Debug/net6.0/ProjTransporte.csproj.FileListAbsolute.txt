@@ -1,0 +1,15 @@
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.csproj.AssemblyReference.cache
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.AssemblyInfoInputs.cache
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.AssemblyInfo.cs
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.csproj.CoreCompileInputs.cache
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\bin\Debug\net6.0\ProjTransporte.exe
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\bin\Debug\net6.0\ProjTransporte.deps.json
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\bin\Debug\net6.0\ProjTransporte.runtimeconfig.json
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\bin\Debug\net6.0\ProjTransporte.dll
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\bin\Debug\net6.0\ProjTransporte.pdb
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.dll
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\refint\ProjTransporte.dll
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.pdb
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ProjTransporte.genruntimeconfig.cache
+D:\ADS-471-2SEM-2022\Projeto_Transp\ProjTransporte\ProjTransporte\obj\Debug\net6.0\ref\ProjTransporte.dll
